@@ -1,0 +1,13 @@
+C:\Users\Marjorie\Desktop\Primos1000\bin\Debug\netcoreapp3.1\Primos1000.exe
+C:\Users\Marjorie\Desktop\Primos1000\bin\Debug\netcoreapp3.1\Primos1000.deps.json
+C:\Users\Marjorie\Desktop\Primos1000\bin\Debug\netcoreapp3.1\Primos1000.runtimeconfig.json
+C:\Users\Marjorie\Desktop\Primos1000\bin\Debug\netcoreapp3.1\Primos1000.runtimeconfig.dev.json
+C:\Users\Marjorie\Desktop\Primos1000\bin\Debug\netcoreapp3.1\Primos1000.dll
+C:\Users\Marjorie\Desktop\Primos1000\bin\Debug\netcoreapp3.1\Primos1000.pdb
+C:\Users\Marjorie\Desktop\Primos1000\obj\Debug\netcoreapp3.1\Primos1000.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\Primos1000\obj\Debug\netcoreapp3.1\Primos1000.AssemblyInfoInputs.cache
+C:\Users\Marjorie\Desktop\Primos1000\obj\Debug\netcoreapp3.1\Primos1000.AssemblyInfo.cs
+C:\Users\Marjorie\Desktop\Primos1000\obj\Debug\netcoreapp3.1\Primos1000.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\Primos1000\obj\Debug\netcoreapp3.1\Primos1000.dll
+C:\Users\Marjorie\Desktop\Primos1000\obj\Debug\netcoreapp3.1\Primos1000.pdb
+C:\Users\Marjorie\Desktop\Primos1000\obj\Debug\netcoreapp3.1\Primos1000.genruntimeconfig.cache

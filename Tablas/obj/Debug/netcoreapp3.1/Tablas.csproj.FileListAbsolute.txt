@@ -1,0 +1,13 @@
+C:\Users\Marjorie\Desktop\Tablas\bin\Debug\netcoreapp3.1\Tablas.exe
+C:\Users\Marjorie\Desktop\Tablas\bin\Debug\netcoreapp3.1\Tablas.deps.json
+C:\Users\Marjorie\Desktop\Tablas\bin\Debug\netcoreapp3.1\Tablas.runtimeconfig.json
+C:\Users\Marjorie\Desktop\Tablas\bin\Debug\netcoreapp3.1\Tablas.runtimeconfig.dev.json
+C:\Users\Marjorie\Desktop\Tablas\bin\Debug\netcoreapp3.1\Tablas.dll
+C:\Users\Marjorie\Desktop\Tablas\bin\Debug\netcoreapp3.1\Tablas.pdb
+C:\Users\Marjorie\Desktop\Tablas\obj\Debug\netcoreapp3.1\Tablas.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\Tablas\obj\Debug\netcoreapp3.1\Tablas.AssemblyInfoInputs.cache
+C:\Users\Marjorie\Desktop\Tablas\obj\Debug\netcoreapp3.1\Tablas.AssemblyInfo.cs
+C:\Users\Marjorie\Desktop\Tablas\obj\Debug\netcoreapp3.1\Tablas.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\Tablas\obj\Debug\netcoreapp3.1\Tablas.dll
+C:\Users\Marjorie\Desktop\Tablas\obj\Debug\netcoreapp3.1\Tablas.pdb
+C:\Users\Marjorie\Desktop\Tablas\obj\Debug\netcoreapp3.1\Tablas.genruntimeconfig.cache

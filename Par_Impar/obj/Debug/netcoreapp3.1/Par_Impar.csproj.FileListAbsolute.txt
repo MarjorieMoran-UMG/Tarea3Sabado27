@@ -1,0 +1,13 @@
+C:\Users\Marjorie\Desktop\Par_Impar\bin\Debug\netcoreapp3.1\Par_Impar.exe
+C:\Users\Marjorie\Desktop\Par_Impar\bin\Debug\netcoreapp3.1\Par_Impar.deps.json
+C:\Users\Marjorie\Desktop\Par_Impar\bin\Debug\netcoreapp3.1\Par_Impar.runtimeconfig.json
+C:\Users\Marjorie\Desktop\Par_Impar\bin\Debug\netcoreapp3.1\Par_Impar.runtimeconfig.dev.json
+C:\Users\Marjorie\Desktop\Par_Impar\bin\Debug\netcoreapp3.1\Par_Impar.dll
+C:\Users\Marjorie\Desktop\Par_Impar\bin\Debug\netcoreapp3.1\Par_Impar.pdb
+C:\Users\Marjorie\Desktop\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.AssemblyInfoInputs.cache
+C:\Users\Marjorie\Desktop\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.AssemblyInfo.cs
+C:\Users\Marjorie\Desktop\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.dll
+C:\Users\Marjorie\Desktop\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.pdb
+C:\Users\Marjorie\Desktop\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.genruntimeconfig.cache

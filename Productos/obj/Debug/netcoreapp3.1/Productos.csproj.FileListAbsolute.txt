@@ -1,0 +1,13 @@
+C:\Users\Marjorie\Desktop\Productos\obj\Debug\netcoreapp3.1\Productos.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\Productos\obj\Debug\netcoreapp3.1\Productos.AssemblyInfoInputs.cache
+C:\Users\Marjorie\Desktop\Productos\obj\Debug\netcoreapp3.1\Productos.AssemblyInfo.cs
+C:\Users\Marjorie\Desktop\Productos\obj\Debug\netcoreapp3.1\Productos.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\Productos\bin\Debug\netcoreapp3.1\Productos.exe
+C:\Users\Marjorie\Desktop\Productos\bin\Debug\netcoreapp3.1\Productos.deps.json
+C:\Users\Marjorie\Desktop\Productos\bin\Debug\netcoreapp3.1\Productos.runtimeconfig.json
+C:\Users\Marjorie\Desktop\Productos\bin\Debug\netcoreapp3.1\Productos.runtimeconfig.dev.json
+C:\Users\Marjorie\Desktop\Productos\bin\Debug\netcoreapp3.1\Productos.dll
+C:\Users\Marjorie\Desktop\Productos\bin\Debug\netcoreapp3.1\Productos.pdb
+C:\Users\Marjorie\Desktop\Productos\obj\Debug\netcoreapp3.1\Productos.dll
+C:\Users\Marjorie\Desktop\Productos\obj\Debug\netcoreapp3.1\Productos.pdb
+C:\Users\Marjorie\Desktop\Productos\obj\Debug\netcoreapp3.1\Productos.genruntimeconfig.cache

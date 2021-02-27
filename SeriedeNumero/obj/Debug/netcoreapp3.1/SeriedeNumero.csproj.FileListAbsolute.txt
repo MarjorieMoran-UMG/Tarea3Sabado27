@@ -1,0 +1,13 @@
+C:\Users\Marjorie\Desktop\SeriedeNumero\bin\Debug\netcoreapp3.1\SeriedeNumero.exe
+C:\Users\Marjorie\Desktop\SeriedeNumero\bin\Debug\netcoreapp3.1\SeriedeNumero.deps.json
+C:\Users\Marjorie\Desktop\SeriedeNumero\bin\Debug\netcoreapp3.1\SeriedeNumero.runtimeconfig.json
+C:\Users\Marjorie\Desktop\SeriedeNumero\bin\Debug\netcoreapp3.1\SeriedeNumero.runtimeconfig.dev.json
+C:\Users\Marjorie\Desktop\SeriedeNumero\bin\Debug\netcoreapp3.1\SeriedeNumero.dll
+C:\Users\Marjorie\Desktop\SeriedeNumero\bin\Debug\netcoreapp3.1\SeriedeNumero.pdb
+C:\Users\Marjorie\Desktop\SeriedeNumero\obj\Debug\netcoreapp3.1\SeriedeNumero.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\SeriedeNumero\obj\Debug\netcoreapp3.1\SeriedeNumero.AssemblyInfoInputs.cache
+C:\Users\Marjorie\Desktop\SeriedeNumero\obj\Debug\netcoreapp3.1\SeriedeNumero.AssemblyInfo.cs
+C:\Users\Marjorie\Desktop\SeriedeNumero\obj\Debug\netcoreapp3.1\SeriedeNumero.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\SeriedeNumero\obj\Debug\netcoreapp3.1\SeriedeNumero.dll
+C:\Users\Marjorie\Desktop\SeriedeNumero\obj\Debug\netcoreapp3.1\SeriedeNumero.pdb
+C:\Users\Marjorie\Desktop\SeriedeNumero\obj\Debug\netcoreapp3.1\SeriedeNumero.genruntimeconfig.cache

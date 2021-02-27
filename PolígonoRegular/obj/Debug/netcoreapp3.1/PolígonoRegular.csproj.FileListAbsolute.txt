@@ -1,0 +1,13 @@
+C:\Users\Marjorie\Desktop\PolígonoRegular\bin\Debug\netcoreapp3.1\PolígonoRegular.exe
+C:\Users\Marjorie\Desktop\PolígonoRegular\bin\Debug\netcoreapp3.1\PolígonoRegular.deps.json
+C:\Users\Marjorie\Desktop\PolígonoRegular\bin\Debug\netcoreapp3.1\PolígonoRegular.runtimeconfig.json
+C:\Users\Marjorie\Desktop\PolígonoRegular\bin\Debug\netcoreapp3.1\PolígonoRegular.runtimeconfig.dev.json
+C:\Users\Marjorie\Desktop\PolígonoRegular\bin\Debug\netcoreapp3.1\PolígonoRegular.dll
+C:\Users\Marjorie\Desktop\PolígonoRegular\bin\Debug\netcoreapp3.1\PolígonoRegular.pdb
+C:\Users\Marjorie\Desktop\PolígonoRegular\obj\Debug\netcoreapp3.1\PolígonoRegular.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\PolígonoRegular\obj\Debug\netcoreapp3.1\PolígonoRegular.AssemblyInfoInputs.cache
+C:\Users\Marjorie\Desktop\PolígonoRegular\obj\Debug\netcoreapp3.1\PolígonoRegular.AssemblyInfo.cs
+C:\Users\Marjorie\Desktop\PolígonoRegular\obj\Debug\netcoreapp3.1\PolígonoRegular.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\PolígonoRegular\obj\Debug\netcoreapp3.1\PolígonoRegular.dll
+C:\Users\Marjorie\Desktop\PolígonoRegular\obj\Debug\netcoreapp3.1\PolígonoRegular.pdb
+C:\Users\Marjorie\Desktop\PolígonoRegular\obj\Debug\netcoreapp3.1\PolígonoRegular.genruntimeconfig.cache

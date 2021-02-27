@@ -1,0 +1,13 @@
+C:\Users\Marjorie\Desktop\Edad\bin\Debug\netcoreapp3.1\Edad.exe
+C:\Users\Marjorie\Desktop\Edad\bin\Debug\netcoreapp3.1\Edad.deps.json
+C:\Users\Marjorie\Desktop\Edad\bin\Debug\netcoreapp3.1\Edad.runtimeconfig.json
+C:\Users\Marjorie\Desktop\Edad\bin\Debug\netcoreapp3.1\Edad.runtimeconfig.dev.json
+C:\Users\Marjorie\Desktop\Edad\bin\Debug\netcoreapp3.1\Edad.dll
+C:\Users\Marjorie\Desktop\Edad\bin\Debug\netcoreapp3.1\Edad.pdb
+C:\Users\Marjorie\Desktop\Edad\obj\Debug\netcoreapp3.1\Edad.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\Edad\obj\Debug\netcoreapp3.1\Edad.AssemblyInfoInputs.cache
+C:\Users\Marjorie\Desktop\Edad\obj\Debug\netcoreapp3.1\Edad.AssemblyInfo.cs
+C:\Users\Marjorie\Desktop\Edad\obj\Debug\netcoreapp3.1\Edad.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\Edad\obj\Debug\netcoreapp3.1\Edad.dll
+C:\Users\Marjorie\Desktop\Edad\obj\Debug\netcoreapp3.1\Edad.pdb
+C:\Users\Marjorie\Desktop\Edad\obj\Debug\netcoreapp3.1\Edad.genruntimeconfig.cache

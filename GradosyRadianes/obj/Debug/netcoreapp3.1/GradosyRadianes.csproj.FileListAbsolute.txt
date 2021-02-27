@@ -1,0 +1,13 @@
+C:\Users\Marjorie\Desktop\GradosyRadianes\bin\Debug\netcoreapp3.1\GradosyRadianes.exe
+C:\Users\Marjorie\Desktop\GradosyRadianes\bin\Debug\netcoreapp3.1\GradosyRadianes.deps.json
+C:\Users\Marjorie\Desktop\GradosyRadianes\bin\Debug\netcoreapp3.1\GradosyRadianes.runtimeconfig.json
+C:\Users\Marjorie\Desktop\GradosyRadianes\bin\Debug\netcoreapp3.1\GradosyRadianes.runtimeconfig.dev.json
+C:\Users\Marjorie\Desktop\GradosyRadianes\bin\Debug\netcoreapp3.1\GradosyRadianes.dll
+C:\Users\Marjorie\Desktop\GradosyRadianes\bin\Debug\netcoreapp3.1\GradosyRadianes.pdb
+C:\Users\Marjorie\Desktop\GradosyRadianes\obj\Debug\netcoreapp3.1\GradosyRadianes.csprojAssemblyReference.cache
+C:\Users\Marjorie\Desktop\GradosyRadianes\obj\Debug\netcoreapp3.1\GradosyRadianes.AssemblyInfoInputs.cache
+C:\Users\Marjorie\Desktop\GradosyRadianes\obj\Debug\netcoreapp3.1\GradosyRadianes.AssemblyInfo.cs
+C:\Users\Marjorie\Desktop\GradosyRadianes\obj\Debug\netcoreapp3.1\GradosyRadianes.csproj.CoreCompileInputs.cache
+C:\Users\Marjorie\Desktop\GradosyRadianes\obj\Debug\netcoreapp3.1\GradosyRadianes.dll
+C:\Users\Marjorie\Desktop\GradosyRadianes\obj\Debug\netcoreapp3.1\GradosyRadianes.pdb
+C:\Users\Marjorie\Desktop\GradosyRadianes\obj\Debug\netcoreapp3.1\GradosyRadianes.genruntimeconfig.cache
